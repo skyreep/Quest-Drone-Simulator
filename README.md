@@ -10,5 +10,6 @@ Designed for Oculus Quest VR headsets with Unity.
 - Implement manual flight controls and mounted camera gimbal controls
 - Add production effects
 - Add production assets
+- Multiplayer base defense mechanics
 
 ![Drone Game Video](demo.gif)
